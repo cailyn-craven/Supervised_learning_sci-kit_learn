@@ -36,11 +36,15 @@ Examples:
 Automate time-consuming or expensive manual tasks
  Example: Doctor’s diagnosis *Make predictions about the future
 	Example: will a customer click on an ad or not?
-Need labeled data 	Historical data with labels
-	Experiments to get labeled data
-	Crowd-sourcing labeled data
+Need labeled data. Here are some ways to get labeled data: 	
+        + Historical data with labels
+	+ Experiments to get labeled data
+	+ Crowd-sourcing labeled data
 
 Using labeled financial data to predict whether the value of a stock will go up or go down next week: supervised learning classification.
 Using labeled housing price data to predict the price of a new house based on various features: supervised learning regression.
 Using unlabeled data to cluster the students of an online education company into different categories based on their learning styles.: unsupervised learning clustering.
 Using labeled financial data to predict what the value of a stock will be next week: supervised learning regression.
+
+* ***Sci-kit Learn, Sklearn***: a free machine learning library for the Python programming language. It features various classification, clustering, and regression algorithms, including support vector machines. It also integrates well with the SciPy stack with libraries like NumPy and Pandas. https://www.scipy.org/stackspec.html <br>
+Python has has a number of other machine learning libraris including Tensorflow and Keras. 
