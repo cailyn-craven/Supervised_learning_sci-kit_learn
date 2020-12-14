@@ -1,5 +1,8 @@
 # Supervised_learning_sci-kit_learn
 
+These notes and the code in this repository are based on the DataCamp Supervisd Learning in Sci-kit Learn Course.
+https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn
+
 Building and tuning predictive models; evaluating how they perform on unseen data. 
 
 Machine learning: the art and science of 
