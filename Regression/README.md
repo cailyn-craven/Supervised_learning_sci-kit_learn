@@ -1,3 +1,3 @@
 In the previous chapter, you used image and political datasets to predict binary and multiclass outcomes. But what if your problem requires a continuous outcome? Regression is best suited to solving such problems. You will learn about fundamental concepts in regression and apply them to predict the life expectancy in a given country using Gapminder data.
 
-+ An example of a **Regression** problem is a bike share company using time and weather data to predict the number of bikes being rented at any given hour. 
++ An example of a **Regression** problem is a bike share company using time and weather data to predict the number of bikes being rented at any given hour. The **target variable**, the number of bike rentals at any given hour is quantitative so it is best framed as a regression problem.  
