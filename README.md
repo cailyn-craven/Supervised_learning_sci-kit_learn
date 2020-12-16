@@ -50,4 +50,4 @@ Using unlabeled data to cluster the students of an online education company into
 Using labeled financial data to predict what the value of a stock will be next week: supervised learning regression.
 
 * ***Sci-kit Learn, Sklearn***: a free machine learning library for the Python programming language. It features various classification, clustering, and regression algorithms, including support vector machines. It also integrates well with the SciPy stack with libraries like NumPy and Pandas. https://www.scipy.org/stackspec.html <br>
-Python has has a number of other machine learning libraris including Tensorflow and Keras. 
+Python has a number of other machine learning libraris including Tensorflow and Keras. 
